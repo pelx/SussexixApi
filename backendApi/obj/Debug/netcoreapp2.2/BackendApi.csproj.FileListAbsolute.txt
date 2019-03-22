@@ -1,0 +1,14 @@
+C:\dev\_dev\angular\backendApi\backendApi\bin\Debug\netcoreapp2.2\BackendApi.deps.json
+C:\dev\_dev\angular\backendApi\backendApi\bin\Debug\netcoreapp2.2\BackendApi.runtimeconfig.json
+C:\dev\_dev\angular\backendApi\backendApi\bin\Debug\netcoreapp2.2\BackendApi.runtimeconfig.dev.json
+C:\dev\_dev\angular\backendApi\backendApi\bin\Debug\netcoreapp2.2\BackendApi.dll
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.csprojAssemblyReference.cache
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.csproj.CoreCompileInputs.cache
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.RazorAssemblyInfo.cache
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.RazorAssemblyInfo.cs
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.AssemblyInfoInputs.cache
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.AssemblyInfo.cs
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.RazorTargetAssemblyInfo.cache
+C:\dev\_dev\angular\backendApi\backendApi\bin\Debug\netcoreapp2.2\BackendApi.pdb
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.dll
+C:\dev\_dev\angular\backendApi\backendApi\obj\Debug\netcoreapp2.2\BackendApi.pdb
