@@ -12,6 +12,8 @@ namespace BackendApi.Data
         
         public DbSet<Record> Records { get; set; }
         public DbSet<Lesson> Lessons { get; set; }
+        public DbSet<User> Users { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -4,14 +4,16 @@ using BackendApi.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BackendApi.Migrations
 {
     [DbContext(typeof(RecordsContext))]
-    partial class RecordsContextModelSnapshot : ModelSnapshot
+    [Migration("20190327101326_UserAdded")]
+    partial class UserAdded
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -40,27 +42,42 @@ namespace BackendApi.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime>("Date");
-
                     b.Property<int>("Day");
 
-                    b.Property<int>("Duration");
+                    b.Property<int>("Minuets");
 
-                    b.Property<int>("Module");
+                    b.Property<DateTime>("RecordDate");
 
-                    b.Property<string>("Notes");
+                    b.Property<int>("Segment");
 
                     b.Property<string>("StrId");
 
-                    b.Property<string>("Teacher");
+                    b.Property<string>("Teacher")
+                        .IsRequired();
 
-                    b.Property<string>("Topic");
+                    b.Property<string>("Topic")
+                        .IsRequired();
 
                     b.Property<string>("Type");
 
                     b.HasKey("Id");
 
                     b.ToTable("Records");
+                });
+
+            modelBuilder.Entity("BackendApi.Models.User", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Password");
+
+                    b.Property<string>("UserName");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

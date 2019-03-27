@@ -1,0 +1,17 @@
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.Tests.deps.json
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.Tests.runtimeconfig.json
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.Tests.runtimeconfig.dev.json
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.Tests.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.Tests.pdb
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.csprojAssemblyReference.cache
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.csproj.CoreCompileInputs.cache
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.AssemblyInfoInputs.cache
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.AssemblyInfo.cs
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.pdb
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.dll
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\bin\Debug\netcoreapp2.2\BackendApi.pdb
+C:\dev\_dev\angular\backendApi\BackendApi.Tests\obj\Debug\netcoreapp2.2\BackendApi.Tests.csproj.CopyComplete
